@@ -1,7 +1,7 @@
 # Sistema-IPTU
 ## UFF/CEDERJ - Projeto da disciplina programação orientada a objetos (Java)
 
-Objetivo: Um sistema para calcular o IPTU de diferentes imóveis.
+Objetivo: Um sistema para calcular o IPTU de diferentes imóveis usando os principais conceitos de POO.
 
 A classe principal foi fornecida no enunciado para a implementação das classes e métodos necessários.
 
